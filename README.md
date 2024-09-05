@@ -2,6 +2,7 @@ NAMA : KERISNA
 NIM  : 09030582226011
 
 # tgs-2-keamanan-komputer
+hal 146 lab 6
 open soure intelligance gathering using OSRFramework
 
   ![image](https://github.com/user-attachments/assets/82239751-6f49-4b24-a4c2-4dba97ddd8b2)
